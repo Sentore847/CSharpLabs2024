@@ -1,0 +1,14 @@
+D:\Инст\CSharpLab2024\Pr4_5\bin\Debug\net8.0\Pr4_5.exe
+D:\Инст\CSharpLab2024\Pr4_5\bin\Debug\net8.0\Pr4_5.deps.json
+D:\Инст\CSharpLab2024\Pr4_5\bin\Debug\net8.0\Pr4_5.runtimeconfig.json
+D:\Инст\CSharpLab2024\Pr4_5\bin\Debug\net8.0\Pr4_5.dll
+D:\Инст\CSharpLab2024\Pr4_5\bin\Debug\net8.0\Pr4_5.pdb
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.AssemblyInfoInputs.cache
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.AssemblyInfo.cs
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.csproj.CoreCompileInputs.cache
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.dll
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\refint\Pr4_5.dll
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.pdb
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\Pr4_5.genruntimeconfig.cache
+D:\Инст\CSharpLab2024\Pr4_5\obj\Debug\net8.0\ref\Pr4_5.dll
